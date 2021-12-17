@@ -4,11 +4,11 @@
 **RaghvendraDev/RaghvendraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
+<!-- - 👯 I’m looking to collaborate on firebase
+- 🤔 I’m looking for help with  -->
 
 - 🔭 I’m currently working on flutter.
 - 🌱 I’m currently learning many things realted to flutter
-<!-- - 👯 I’m looking to collaborate on firebase
-- 🤔 I’m looking for help with  -->
 - 💬 Ask me about app development, android/ios, web, mostly flutter.
 - 📫 How to reach me: [Youtube Channel](https://www.youtube.com/c/CodeAlgo)
 - 😄 Pronouns: He/Him
